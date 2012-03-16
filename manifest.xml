@@ -1,0 +1,26 @@
+<package>
+  <description brief="kinect_test">
+
+     kinect_test
+
+  </description>
+  <author>João</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/kinect_test</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="image_transport"/>
+  <depend package="rviz"/>
+  <depend package="rosbag"/>
+  <depend package="rxtools"/>
+  <depend package="openni"/>
+  <depend package="openni_camera"/>
+  <rosdep name="opencv2.3"/>
+
+
+</package>
+
+
